@@ -1,0 +1,9 @@
+import React from 'react';
+
+const Section = () => (
+  <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin elit odio, porta eget finibus a, gravida at nunc. Ut sit amet luctus nunc. Sed elementum vehicula diam et mattis. Quisque tincidunt varius metus ut fermentum. Vivamus eu ipsum diam. In hac habitasse platea dictumst. Praesent orci neque, vulputate sit amet tempor in, pretium non libero. Nulla ut lorem pellentesque, commodo enim at, sodales nunc. Fusce fringilla erat erat, eget tincidunt justo eleifend sit amet. In hac habitasse platea dictumst. Morbi vel leo fringilla, euismod turpis ullamcorper, mattis metus.
+  Curabitur rhoncus est turpis, sit amet varius tortor rhoncus ac. Donec id posuere ex, vitae consectetur ex. Aenean egestas nunc vitae viverra pretium. Sed laoreet massa at metus consequat suscipit. Sed mollis a ex quis euismod. Curabitur iaculis diam sed ornare ultrices. Curabitur nec nisi euismod, fringilla lectus non, suscipit elit. Nulla sollicitudin metus nec vulputate posuere.
+  Maecenas et justo ut dolor consequat posuere id pellentesque magna. Praesent porta fermentum ex quis faucibus. Pellentesque in eros eget risus facilisis iaculis. Phasellus ac elit orci. Sed tincidunt, urna sit amet rhoncus aliquet, diam ligula pharetra nulla, id molestie libero ipsum ut libero. Quisque turpis arcu, finibus quis venenatis vitae, faucibus vitae lectus. Proin mollis arcu at risus pharetra, eget semper metus fermentum. Nullam viverra, mauris eget viverra bibendum, mauris sem malesuada mi, euismod iaculis neque justo quis ex. Nullam varius vestibulum quam sit amet efficitur. Aenean consectetur fermentum suscipit. Nullam et erat a nulla consectetur placerat vel nec lorem. Praesent eleifend turpis ac egestas feugiat. Suspendisse commodo rutrum sem sit amet feugiat. Sed tincidunt augue nec neque aliquet finibus. Ut vehicula ligula in sapien varius sagittis. Duis eget varius massa.</div>
+)
+
+export default Section
